@@ -21,8 +21,8 @@ GymPass style app.
 ### Caminhos de cada requisito - Condições para o que o usuario podera fazer
 
 - [x] o usuario nao deve poder se cadastrar com um e-mail duplicado;
-- [ ] o usuario nao pode fazer 2 check-ins no mesmo dia;
-- [ ] o usuario nao pode fazer check-in se nao estiver perto (100m) da academia;
+- [x] o usuario nao pode fazer 2 check-ins no mesmo dia;
+- [x] o usuario nao pode fazer check-in se nao estiver perto (100m) da academia;
 - [ ] o check-in so pode ser validado por administradores;
 - [ ] A academia so pode ser cadastrada por administradores;
 
