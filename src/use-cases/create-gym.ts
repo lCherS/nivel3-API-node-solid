@@ -40,4 +40,8 @@ export class CreateGymUseCase {
       gym,
     }
   }
+
+  async findGymById() {
+    return null
+  }
 }
