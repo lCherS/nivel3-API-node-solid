@@ -11,10 +11,6 @@ interface SearchGymsUseCaseResponse {
   gyms: Gym[]
 }
 
-// S O L I D
-
-// D - Dependency Inversion Principle
-
 export class SearchGymsUseCase {
   constructor(private gymsRepository: GymsRepository) {}
 
