@@ -21,7 +21,7 @@ export async function authenticate(req: FastifyRequest, reply: FastifyReply) {
       {},
       {
         sign: {
-          id: user.id,
+          sub: user.id,
         },
       },
     )
